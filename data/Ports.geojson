@@ -1,0 +1,1505 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -168.9382,53.75961 ]
+    },
+    "properties": {
+    "NAME":"Unalaska Island, AK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -156.4728,20.89861 ]
+    },
+    "properties": {
+    "NAME":"Kahului, Maui, HI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -155.8333,20.03778 ]
+    },
+    "properties": {
+    "NAME":"Kawaihae Harbor, HI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -159.3531,21.96111 ]
+    },
+    "properties": {
+    "NAME":"Nawiliwili, Kauai, HI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -158.1089,21.29723 ]
+    },
+    "properties": {
+    "NAME":"Barbers Point, Oahu, HI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8717,21.31111 ]
+    },
+    "properties": {
+    "NAME":"Honolulu, HI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -155.0758,19.72861 ]
+    },
+    "properties": {
+    "NAME":"Hilo, HI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -151.3144,60.74793 ]
+    },
+    "properties": {
+    "NAME":"Nikishka, AK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.895,61.23778 ]
+    },
+    "properties": {
+    "NAME":"Anchorage, AK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.3464,61.12473 ]
+    },
+    "properties": {
+    "NAME":"Valdez, AK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -164.5389,67.71918 ]
+    },
+    "properties": {
+    "NAME":"Kivilina, AK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.1784,32.70821 ]
+    },
+    "properties": {
+    "NAME":"San Diego, CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.214012,37.50536 ]
+    },
+    "properties": {
+    "NAME":"Redwood City, CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.399042,37.806665 ]
+    },
+    "properties": {
+    "NAME":"San Francisco, CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3081,37.82152 ]
+    },
+    "properties": {
+    "NAME":"Oakland, CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.374233,37.924237 ]
+    },
+    "properties": {
+    "NAME":"Richmond, CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.208475,34.148244 ]
+    },
+    "properties": {
+    "NAME":"Port Hueneme, CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.241,33.77728 ]
+    },
+    "properties": {
+    "NAME":"Los Angeles, CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2095,33.73957 ]
+    },
+    "properties": {
+    "NAME":"Long Beach, CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.3156,37.9527 ]
+    },
+    "properties": {
+    "NAME":"Stockton, CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.2095,43.36351 ]
+    },
+    "properties": {
+    "NAME":"Coos Bay, OR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.8628,46.02048 ]
+    },
+    "properties": {
+    "NAME":"Kalama, WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.6653,45.47881 ]
+    },
+    "properties": {
+    "NAME":"Portland, OR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.6806,45.62244 ]
+    },
+    "properties": {
+    "NAME":"Vancouver, WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.176146,46.904156 ]
+    },
+    "properties": {
+    "NAME":"Grays Harbor, WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.914,46.14222 ]
+    },
+    "properties": {
+    "NAME":"Longview, WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.9089,47.06827 ]
+    },
+    "properties": {
+    "NAME":"Olympia, WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4515,47.28966 ]
+    },
+    "properties": {
+    "NAME":"Tacoma, WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.359218,47.587711 ]
+    },
+    "properties": {
+    "NAME":"Seattle, WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2294,47.98476 ]
+    },
+    "properties": {
+    "NAME":"Everett, WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.59961,48.495943 ]
+    },
+    "properties": {
+    "NAME":"Anacortes, WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -131.65,55.34193 ]
+    },
+    "properties": {
+    "NAME":"Ketchikan, AK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.398138,25.952201 ]
+    },
+    "properties": {
+    "NAME":"Brownsville, TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.39789,27.81277 ]
+    },
+    "properties": {
+    "NAME":"Corpus Christi, TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.97247,28.69131 ]
+    },
+    "properties": {
+    "NAME":"Victoria, TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.56412,28.5954 ]
+    },
+    "properties": {
+    "NAME":"Matagorda Port Lv Pt Com, TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3707,28.96133 ]
+    },
+    "properties": {
+    "NAME":"Freeport, TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.8127,29.31049 ]
+    },
+    "properties": {
+    "NAME":"Galveston, TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.293679,29.747023 ]
+    },
+    "properties": {
+    "NAME":"Houston, TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.918091,29.363068 ]
+    },
+    "properties": {
+    "NAME":"Texas City, TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.96069,29.83142 ]
+    },
+    "properties": {
+    "NAME":"Port Arthur, TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.088112,30.087163 ]
+    },
+    "properties": {
+    "NAME":"Beaumont, TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.818315,30.045488 ]
+    },
+    "properties": {
+    "NAME":"Orange, TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.286839,30.106406 ]
+    },
+    "properties": {
+    "NAME":"Lake Charles, LA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.440674,31.312083 ]
+    },
+    "properties": {
+    "NAME":"Central Louisiana Regional Port"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.205279,29.121945 ]
+    },
+    "properties": {
+    "NAME":"Port Fourchon, LA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.843795,29.937314 ]
+    },
+    "properties": {
+    "NAME":"Iberia, LA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.659051,29.57907 ]
+    },
+    "properties": {
+    "NAME":"Terrebonne, LA, Port of"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.61794,30.03345 ]
+    },
+    "properties": {
+    "NAME":"South Louisiana, LA, Port of"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.19934,30.42292 ]
+    },
+    "properties": {
+    "NAME":"Baton Rouge, LA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.430732,31.547238 ]
+    },
+    "properties": {
+    "NAME":"Natchez, MS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.90056,32.3347 ]
+    },
+    "properties": {
+    "NAME":"Vicksburg, MS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.15361,32.79472 ]
+    },
+    "properties": {
+    "NAME":"Lake Providence, LA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.126869,33.359232 ]
+    },
+    "properties": {
+    "NAME":"Greenville, MS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.687447,29.480004 ]
+    },
+    "properties": {
+    "NAME":"Plaquemines, LA, Port of"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.085256,29.91414 ]
+    },
+    "properties": {
+    "NAME":"New Orleans, LA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.08533,30.35216 ]
+    },
+    "properties": {
+    "NAME":"Gulfport, MS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.55879,30.34802 ]
+    },
+    "properties": {
+    "NAME":"Pascagoula, MS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.04113,30.72527 ]
+    },
+    "properties": {
+    "NAME":"Mobile, AL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.19926,30.19009 ]
+    },
+    "properties": {
+    "NAME":"Panama City, FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.60271,27.66 ]
+    },
+    "properties": {
+    "NAME":"Port Manatee, FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.52235,27.78534 ]
+    },
+    "properties": {
+    "NAME":"Tampa, FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.181642,25.782862 ]
+    },
+    "properties": {
+    "NAME":"Miami, FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.117801,26.093392 ]
+    },
+    "properties": {
+    "NAME":"Port Everglades, FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.05267,26.76904 ]
+    },
+    "properties": {
+    "NAME":"Palm Beach, FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.60815,28.41409 ]
+    },
+    "properties": {
+    "NAME":"Port Canaveral, FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.665125,30.322757 ]
+    },
+    "properties": {
+    "NAME":"Jacksonville, FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.49988,31.15856 ]
+    },
+    "properties": {
+    "NAME":"Brunswick, GA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.095382,32.084711 ]
+    },
+    "properties": {
+    "NAME":"Savannah, GA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.921595,32.788781 ]
+    },
+    "properties": {
+    "NAME":"Charleston, SC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.74002,36.2182 ]
+    },
+    "properties": {
+    "NAME":"Tulsa, Port of Catoosa, OK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.60762,39.115 ]
+    },
+    "properties": {
+    "NAME":"Kansas City, MO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.0619,44.95157 ]
+    },
+    "properties": {
+    "NAME":"St. Paul, MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.02206,33.813551 ]
+    },
+    "properties": {
+    "NAME":"Rosedale, MS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.58323,34.52186 ]
+    },
+    "properties": {
+    "NAME":"Helena, AR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.06198,35.18177 ]
+    },
+    "properties": {
+    "NAME":"Memphis, TN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.56866,36.526837 ]
+    },
+    "properties": {
+    "NAME":"New Madrid County, MO, Port of"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.205352,36.581544 ]
+    },
+    "properties": {
+    "NAME":"Hickman-Fulton County Riverport, KY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.693177,37.129276 ]
+    },
+    "properties": {
+    "NAME":"Paducah-McCracken County Riverport, KY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.22961,38.56954 ]
+    },
+    "properties": {
+    "NAME":"St. Louis, MO and IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.93488,37.97332 ]
+    },
+    "properties": {
+    "NAME":"Southeast Missouri Port, MO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.046146,38.143332 ]
+    },
+    "properties": {
+    "NAME":"Kaskaskia, IL, Port of"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.287506,34.373904 ]
+    },
+    "properties": {
+    "NAME":"Guntersville, AL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.77467,36.16513 ]
+    },
+    "properties": {
+    "NAME":"Nashville, TN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.32682,35.02448 ]
+    },
+    "properties": {
+    "NAME":"Chattanooga, TN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.875,37.92208 ]
+    },
+    "properties": {
+    "NAME":"Mount Vernon, IN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.593778,37.842685 ]
+    },
+    "properties": {
+    "NAME":"Henderson County Riverport, KY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.111688,37.776367 ]
+    },
+    "properties": {
+    "NAME":"Owensboro, KY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.63799,41.88662 ]
+    },
+    "properties": {
+    "NAME":"Chicago, IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.44547,41.67586 ]
+    },
+    "properties": {
+    "NAME":"Indiana Harbor, IN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.41614,41.64523 ]
+    },
+    "properties": {
+    "NAME":"Buffington, IN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.32513,41.61202 ]
+    },
+    "properties": {
+    "NAME":"Gary, IN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.15521,41.64325 ]
+    },
+    "properties": {
+    "NAME":"Burns Waterway Harbor, IN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.760993,38.26147 ]
+    },
+    "properties": {
+    "NAME":"Louisville, KY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5045,39.09403 ]
+    },
+    "properties": {
+    "NAME":"Cincinnati-Northern KY, Ports of"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.096408,46.778362 ]
+    },
+    "properties": {
+    "NAME":"Duluth-Superior, MN and WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.66261,47.00428 ]
+    },
+    "properties": {
+    "NAME":"Two Harbors, MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.256388,47.294208 ]
+    },
+    "properties": {
+    "NAME":"Silver Bay, MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.89967,42.98824 ]
+    },
+    "properties": {
+    "NAME":"Milwaukee, WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.23557,43.06694 ]
+    },
+    "properties": {
+    "NAME":"Grand Haven, MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.018118,44.516215 ]
+    },
+    "properties": {
+    "NAME":"Green Bay, WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.86279,45.95508 ]
+    },
+    "properties": {
+    "NAME":"Port Inland, MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.31281,45.99139 ]
+    },
+    "properties": {
+    "NAME":"Port Dolomite, MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.385166,46.577367 ]
+    },
+    "properties": {
+    "NAME":"Presque Isle, MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.28703,46.51113 ]
+    },
+    "properties": {
+    "NAME":"Marquette, MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.41998,38.43361 ]
+    },
+    "properties": {
+    "NAME":"Huntington - Tristate"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.50751,41.66294 ]
+    },
+    "properties": {
+    "NAME":"Toledo, OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.390609,41.915134 ]
+    },
+    "properties": {
+    "NAME":"Monroe, MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.71227,41.47022 ]
+    },
+    "properties": {
+    "NAME":"Sandusky, OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.70906,41.52962 ]
+    },
+    "properties": {
+    "NAME":"Marblehead, OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.67191,41.47852 ]
+    },
+    "properties": {
+    "NAME":"Cleveland, OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.29407,41.76666 ]
+    },
+    "properties": {
+    "NAME":"Fairport Harbor, OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.79172,41.91873 ]
+    },
+    "properties": {
+    "NAME":"Ashtabula, OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.01612,40.44234 ]
+    },
+    "properties": {
+    "NAME":"Pittsburgh, PA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.953954,34.239278 ]
+    },
+    "properties": {
+    "NAME":"Wilmington, NC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.72421,34.71693 ]
+    },
+    "properties": {
+    "NAME":"Morehead City, NC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.31174,36.86642 ]
+    },
+    "properties": {
+    "NAME":"Virginia, VA, Port of"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.51712,39.20899 ]
+    },
+    "properties": {
+    "NAME":"Baltimore, MD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.56158,39.65668 ]
+    },
+    "properties": {
+    "NAME":"New Castle, DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.50697,39.71589 ]
+    },
+    "properties": {
+    "NAME":"Wilmington, DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.109586,42.269094 ]
+    },
+    "properties": {
+    "NAME":"Detroit, MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.49413,42.82663 ]
+    },
+    "properties": {
+    "NAME":"St. Clair, MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.42227,45.0556 ]
+    },
+    "properties": {
+    "NAME":"Alpena, MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.7756,45.39293 ]
+    },
+    "properties": {
+    "NAME":"Calcite, MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.420781,45.298455 ]
+    },
+    "properties": {
+    "NAME":"Stoneport, MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.88556,45.99245 ]
+    },
+    "properties": {
+    "NAME":"Drummond Island, MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.5486,41.96671 ]
+    },
+    "properties": {
+    "NAME":"Conneaut, OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.40424,39.81544 ]
+    },
+    "properties": {
+    "NAME":"Marcus Hook, PA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.22655,39.82689 ]
+    },
+    "properties": {
+    "NAME":"Paulsboro, NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.3222,39.85423 ]
+    },
+    "properties": {
+    "NAME":"Chester, PA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.202191,39.91882 ]
+    },
+    "properties": {
+    "NAME":"Philadelphia, PA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.10432,39.94305 ]
+    },
+    "properties": {
+    "NAME":"Camden-Gloucester, NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.74081,40.13598 ]
+    },
+    "properties": {
+    "NAME":"Penn Manor, PA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.038357,40.673949 ]
+    },
+    "properties": {
+    "NAME":"New York, NY and NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.17886,41.172 ]
+    },
+    "properties": {
+    "NAME":"Bridgeport, CT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.07216,40.94881 ]
+    },
+    "properties": {
+    "NAME":"Port Jefferson, NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.90473,41.29883 ]
+    },
+    "properties": {
+    "NAME":"New Haven, CT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.39844,41.81178 ]
+    },
+    "properties": {
+    "NAME":"Providence, RI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.74816,42.64271 ]
+    },
+    "properties": {
+    "NAME":"Albany, NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.05229,42.350939 ]
+    },
+    "properties": {
+    "NAME":"Boston, MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.73806,43.07398 ]
+    },
+    "properties": {
+    "NAME":"Portsmouth, NH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.25134,43.64951 ]
+    },
+    "properties": {
+    "NAME":"Portland, ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.92497,44.45285 ]
+    },
+    "properties": {
+    "NAME":"Searsport, ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.620996,17.978613 ]
+    },
+    "properties": {
+    "NAME":"Ponce, PR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.09989,18.442329 ]
+    },
+    "properties": {
+    "NAME":"San Juan, PR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.399042,37.806665 ]
+    },
+    "properties": {
+    "NAME":"Sacramento, CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.280491,29.42029 ]
+    },
+    "properties": {
+    "NAME":"Morgan City, LA, Port of"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.358281,34.790791 ]
+    },
+    "properties": {
+    "NAME":"Little Rock, AR, Port of"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.385442,35.445202 ]
+    },
+    "properties": {
+    "NAME":"Fort Smith, AR, Port of"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.909476,42.937633 ]
+    },
+    "properties": {
+    "NAME":"Buffalo, NY"
+    }
+  }
+]
+}

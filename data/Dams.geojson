@@ -1,0 +1,835 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.9580556,45.30666667 ]
+    },
+    "properties": {
+    "Name":"Yellowtail Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3325,45.96416667 ]
+    },
+    "properties": {
+    "Name":"Yale Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.675,42.67138889 ]
+    },
+    "properties": {
+    "Name":"William L. Jess Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.12277778,36.32361111 ]
+    },
+    "properties": {
+    "Name":"Watauga Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.0127778,38.71833333 ]
+    },
+    "properties": {
+    "Name":"Warm Springs Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.6997222,40.55972222 ]
+    },
+    "properties": {
+    "Name":"Upper Stillwater Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.4416667,38.86527778 ]
+    },
+    "properties": {
+    "Name":"Union Valley Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.7633333,40.80111111 ]
+    },
+    "properties": {
+    "Name":"Trinity Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.1294444,46.65638889 ]
+    },
+    "properties": {
+    "Name":"Tieton Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.1611111,33.67166667 ]
+    },
+    "properties": {
+    "Name":"Theodore Roosevelt Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.5419444,43.90972222 ]
+    },
+    "properties": {
+    "Name":"Teton Dam[n 1]"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1977778,46.07972222 ]
+    },
+    "properties": {
+    "Name":"Swift Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.88972222,38.22166667 ]
+    },
+    "properties": {
+    "Name":"Summersville Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.10583333,33.94194444 ]
+    },
+    "properties": {
+    "Name":"Smith Lake Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4188889,40.71861111 ]
+    },
+    "properties": {
+    "Name":"Shasta Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.0625,34.14583333 ]
+    },
+    "properties": {
+    "Name":"Seven Oaks Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.9244444,32.91222222 ]
+    },
+    "properties": {
+    "Name":"San Vicente Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.0747222,37.05916667 ]
+    },
+    "properties": {
+    "Name":"San Luis Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.8758333,34.20555556 ]
+    },
+    "properties": {
+    "Name":"San Gabriel Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.2161111,38.49833333 ]
+    },
+    "properties": {
+    "Name":"Salt Springs Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.2777778,44.60305556 ]
+    },
+    "properties": {
+    "Name":"Round Butte Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.0672222,48.73166667 ]
+    },
+    "properties": {
+    "Name":"Ross Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.7591667,38.2375 ]
+    },
+    "properties": {
+    "Name":"Ridgway Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.7638889,34.64416667 ]
+    },
+    "properties": {
+    "Name":"Pyramid Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.3261111,36.83222222 ]
+    },
+    "properties": {
+    "Name":"Pine Flat Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1391667,34.29638889 ]
+    },
+    "properties": {
+    "Name":"Parker Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.8502778,38.2575 ]
+    },
+    "properties": {
+    "Name":"Pardee Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.3963889,34.33472222 ]
+    },
+    "properties": {
+    "Name":"Pacoima Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.2425,43.64194444 ]
+    },
+    "properties": {
+    "Name":"Owyhee Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.4855556,39.53888889 ]
+    },
+    "properties": {
+    "Name":"Oroville Dam[1]"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.1380556,33.07027778 ]
+    },
+    "properties": {
+    "Name":"Olivenhain Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.7880556,37.9475 ]
+    },
+    "properties": {
+    "Name":"O'Shaughnessy Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.2661111,33.84694444 ]
+    },
+    "properties": {
+    "Name":"New Waddell Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.5280556,37.94722222 ]
+    },
+    "properties": {
+    "Name":"New Melones Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.2694444,37.58611111 ]
+    },
+    "properties": {
+    "Name":"New Exchequer Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.4208333,37.69944444 ]
+    },
+    "properties": {
+    "Name":"New Don Pedro Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.1430556,39.39333333 ]
+    },
+    "properties": {
+    "Name":"New Bullards Bar Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.6125,36.80027778 ]
+    },
+    "properties": {
+    "Name":"Navajo Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9319444,47.14 ]
+    },
+    "properties": {
+    "Name":"Mud Mountain Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4261111,46.53444444 ]
+    },
+    "properties": {
+    "Name":"Mossyrock Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.5380556,36.45194444 ]
+    },
+    "properties": {
+    "Name":"Morrow Point Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1041667,38.51305556 ]
+    },
+    "properties": {
+    "Name":"Monticello Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.555,45.95666667 ]
+    },
+    "properties": {
+    "Name":"Merwin Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.3161111,37.32305556 ]
+    },
+    "properties": {
+    "Name":"Mammoth Pool Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.0530556,43.52833333 ]
+    },
+    "properties": {
+    "Name":"Lucky Peak Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.3094444,48.41166667 ]
+    },
+    "properties": {
+    "Name":"Libby Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.4238889,40.59777778 ]
+    },
+    "properties": {
+    "Name":"Jordanelle Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.91722222,34.95972222 ]
+    },
+    "properties": {
+    "Name":"Jocassee Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0141667,48.34166667 ]
+    },
+    "properties": {
+    "Name":"Hungry Horse Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.3438889,33.59083333 ]
+    },
+    "properties": {
+    "Name":"Horse Mesa Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.7377778,36.01555556 ]
+    },
+    "properties": {
+    "Name":"Hoover Dam[2]"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.6983333,45.24472222 ]
+    },
+    "properties": {
+    "Name":"Hells Canyon Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.4088889,39.05722222 ]
+    },
+    "properties": {
+    "Name":"Hell Hole Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.5469444,44.45194444 ]
+    },
+    "properties": {
+    "Name":"Green Peter Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.3302778,39.8775 ]
+    },
+    "properties": {
+    "Name":"Green Mountain Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.9816667,47.95583333 ]
+    },
+    "properties": {
+    "Name":"Grand Coulee Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.2083333,48.69777778 ]
+    },
+    "properties": {
+    "Name":"Gorge Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.4844444,36.9375 ]
+    },
+    "properties": {
+    "Name":"Glen Canyon Dam[4]"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.7052778,37.00055556 ]
+    },
+    "properties": {
+    "Name":"Friant Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.80472222,35.45222222 ]
+    },
+    "properties": {
+    "Name":"Fontana Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.1563889,38.70777778 ]
+    },
+    "properties": {
+    "Name":"Folsom Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.4213889,40.91444444 ]
+    },
+    "properties": {
+    "Name":"Flaming Gorge Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.1922222,33.15388889 ]
+    },
+    "properties": {
+    "Name":"Elephant Butte Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.2969444,46.515 ]
+    },
+    "properties": {
+    "Name":"Dworshak Dam[3]"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.9605556,38.33055556 ]
+    },
+    "properties": {
+    "Name":"Donnells Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.1311111,48.71416667 ]
+    },
+    "properties": {
+    "Name":"Diablo Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2497222,44.72083333 ]
+    },
+    "properties": {
+    "Name":"Detroit Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.6252778,38.51055556 ]
+    },
+    "properties": {
+    "Name":"Crystal Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.97,37.07888889 ]
+    },
+    "properties": {
+    "Name":"Courtright Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2402778,44.12888889 ]
+    },
+    "properties": {
+    "Name":"Cougar Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.9091667,37.97611111 ]
+    },
+    "properties": {
+    "Name":"Cherry Valley Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.6069444,34.51916667 ]
+    },
+    "properties": {
+    "Name":"Castaic Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.67388889,34.61527778 ]
+    },
+    "properties": {
+    "Name":"Carters Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.1841667,44.50166667 ]
+    },
+    "properties": {
+    "Name":"Buffalo Bill Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.9,44.83611111 ]
+    },
+    "properties": {
+    "Name":"Brownlee Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.3475,48.98722222 ]
+    },
+    "properties": {
+    "Name":"Boundary Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.335,38.45055556 ]
+    },
+    "properties": {
+    "Name":"Blue Mesa Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.82416667,38.22555556 ]
+    },
+    "properties": {
+    "Name":"Bath County Pumped Storage Station�Upper Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.6316667,33.81805556 ]
+    },
+    "properties": {
+    "Name":"Bartlett Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.9222222,43.59555556 ]
+    },
+    "properties": {
+    "Name":"Arrowrock Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.4486111,43.3575 ]
+    },
+    "properties": {
+    "Name":"Anderson Ranch Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3102778,46.80138889 ]
+    },
+    "properties": {
+    "Name":"Alder Dam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.4258333,36.23805556 ]
+    },
+    "properties": {
+    "Name":"Abiquiu Dam"
+    }
+  }
+]
+}
